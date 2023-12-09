@@ -1,4 +1,5 @@
 import numpy
+import os
 
 def cal_pop_fitness(equation_inputs, pop):
     # Calculating the fitness value of each solution in the current population.
